@@ -25,13 +25,13 @@ Tickets cannot be bought for the current date
 Tickets can be bough at most 2 weeks in advance
 Only 1 ticket can be bought at a time
 All tickets cost $100
-To implement this assignment you will need to setup and run Apache Tomcat.
+To implement this application you will need to setup and run Apache Tomcat.
 
 The application is implemented using the following technologies: 
 Java Servlets, JSP, XHTML, CSS, JavaScript, and DOM. Use CSS style sheets in favor of deprecated HTML tags and attributes.
 Store all information about available seats and sold flights in memory.
 For simplicity, assume that only 1 customer will use the site at any given time, 
-i.e., there is no need to implement concurrency control for this assignment.
+i.e., there is no need to implement concurrency control for this application.
 The site includes a page that provides information about all tickets that have been sold since the site started running.
 For each transaction, include information about the flight, seat number and the customer's credit card data.
 

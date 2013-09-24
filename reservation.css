@@ -1,0 +1,60 @@
+body.reserve {
+	text-align: center;
+	background-color: 33CCFF;
+
+}
+
+.seat0 {
+	font-size: 20px;
+	border: solid;
+	background: white;
+	position: relative;
+	top: 35px;
+	left: 92px;
+}
+
+.taken0 {
+	font-size: 20px;
+	border: solid;
+	background: yellow;
+	position: relative;
+	top: 35px;
+	left: 92px;
+}
+
+.seat1 {
+	font-size: 20px;
+	border: solid;
+	background: white;
+	position: relative;
+	top: 35px;
+	left: 102px;
+}
+
+.taken1 {
+	font-size: 20px;
+	border: solid;
+	background: yellow;
+	position: relative;
+	top: 35px;
+	left: 102px;
+}
+
+.seat2 {
+	font-size: 20px;
+	font-size: 20px;
+	border: solid;
+	background: white;
+	position: relative;
+	top: 35px;
+	left: 150px;
+}
+
+.taken2 {
+	font-size: 20px;
+	border: solid;
+	background: yellow;
+	position: relative;
+	top: 35px;
+	left: 150px;
+}

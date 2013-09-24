@@ -1,0 +1,42 @@
+Student1 Name: Sehoon Bae
+Student1 Number:994536855
+Student1 CDF: g1sehoon
+
+Student2 Name: Wonbin Moon
+Student2 Number: 994181023
+Student2 CDF: g9bin
+
+
+
+1. Compiling java
+	In this same folder there's a shell script named "compile.sh"
+	which, when ran, will compile the java files and place the class
+	files in the correct folders.
+
+
+2. Index.html
+	Main entry for our reservation web.
+	It has two links, image and 'here' text, that connects to flight selection page.
+
+3. Flight time selection
+	User can select the desired departure time and city
+
+4. Seat selection
+	It has an image that has three seats the user can choose from.
+	Seats that are already reserved are in yellow color and cannot be selected.
+	Seats that are available to reserve are in white color.
+	Currently selected seat will be in green color.
+	If tried to proceed without selecting a seat, it'll give a warning.
+
+5. Checkout
+	User can put their credit card information as well as billing address
+	If an important field is missing or incorrect, it'll give a warning.
+
+6. Confirmation
+	Confirmation page that displays currently purchased flight information and
+	transaction information, including the price.
+	User can choose to print this page by clicking on "Print Page" button
+
+7. Transaction History
+	Provides information about all tickets that have been sold since the site started running.
+	For each transaction, includes information about the flight, seat number and the customer's credit card data. 
